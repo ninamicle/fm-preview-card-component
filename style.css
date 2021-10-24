@@ -68,6 +68,21 @@ body{
     font-weight: 400;
     text-transform: uppercase;
 }
+.card-overlay{
+    width: 100%;
+    position: relative;
+}
+
+.card-overlay::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: hsl(276.7, 93.6%, 51%);
+    opacity: 0.3;
+}
 
 @media screen and (min-width: 1400px) {
     .wrapper-card{
