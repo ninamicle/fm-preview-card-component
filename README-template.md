@@ -43,9 +43,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Bootstrap grid
 - Mobile-first workflow
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@ninamicle](https://www.frontendmentor.io/profile/ninamicle)
