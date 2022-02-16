@@ -13,7 +13,7 @@
 
 ### Links
 
-- Solution URL: [fm-preview-card-component](https://bit.ly/3B7FrqX)
+- Solution URL: [fm-preview-card-component](https://jolly-sinoussi-0eed51.netlify.app/)
 - Live Site URL: [@ninamicle](https://github.com/ninamicle)
 
 
